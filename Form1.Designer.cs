@@ -918,6 +918,7 @@
             // 
             // sciana28
             // 
+            //
             sciana28.BackgroundImageLayout = ImageLayout.Center;
             sciana28.Location = new Point(2000, 2000);
             sciana28.Name = "sciana28";
