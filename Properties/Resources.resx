@@ -118,46 +118,151 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="jezioro12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jezioro12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="muchomorczerwony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\muchomorczerwony.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kamien" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kamien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="22_skalowacz_pl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22_skalowacz_pl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="jezioro2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jezioro2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="plansza4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kamien_skalowacz_pl" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kamien_skalowacz_pl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="plansza21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="aaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\aaa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="muchomorplamisty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\muchomorplamisty.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="prawo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\prawo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="plansza8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="jezioro11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jezioro11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="drzewko" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drzewko1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="plansza5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="przod" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\przod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pasek100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasek100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kamien1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kamien1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drzewko" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drzewko1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maślak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maślak.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mleczaj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mleczaj.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tęgoskór" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tęgoskór.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pieczarka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pieczarka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maślankawiazkowa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maślankawiazkowa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hełmówka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hełmówka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grzyb_skalowacz_pl1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grzyb_skalowacz_pl1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smardz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smardz.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pasek25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasek25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="muchomorsromotnikowy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\muchomorsromotnikowy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plansza7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plansza7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pasek75" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasek75.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="prawo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\prawo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grzyb_skalowacz_pl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grzyb_skalowacz_pl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rydz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rydz.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pasek50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasek50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="lewo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lewo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="opieńki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\opieńki.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tyl" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tyl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="jezioro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jezioro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="koźlarz(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\koźlarz(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="jezioro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jezioro1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pasek0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasek0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="kamien1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kamien1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="olszówka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olszówka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lejkówka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lejkówka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="szatan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\szatan.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kania.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11_skalowacz_pl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11_skalowacz_pl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boczniak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boczniak.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kurka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kurka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="borowik" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\borowik.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Grzybobranie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Grzybobranie.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jezioro12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jezioro12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grzyb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grzyb.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

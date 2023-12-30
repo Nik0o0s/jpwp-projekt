@@ -120,6 +120,10 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="samouczektext.Text" xml:space="preserve">
+    <value>Do poruszania postacią wykorzystywane są strzałki. Aby wejść w interakcje z grzybem trzeba podejść do niego i nacisnąć klawisz "E". Następnie trzeba wybrać czy bierze się grzyba, czy się go zostawia. Wykorzystuje się do tego odpowiedni przycisk znajdujący się pod zdjęciem grzyba.
+Mapa składa się z dziewięciu planszy. Informacja, na której planszy znajduje się gracz wyświetlana jest w dolnym panelu, wraz z ilością punktów i paskiem życia. W lesie znajduje się trzydzieści grzybów. Gra kończy się po znalezieniu każdego z nich lub przy utracie wszystkich punktów zdrowia.</value>
+  </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>25</value>
   </metadata>
